@@ -1,0 +1,7 @@
+- Redux Shopping cart
+- Install Tailwind css
+  - npm install -D tailwindcss
+  - npx tailwindcss init
+  - Tailwind.config.js - content: ["./src/**/*.{html,js}"],
+- Install Redux toolkits
+  - npm i @reduxjs/toolkit react-redux react-icons react-router-dom react-loader-spinner
